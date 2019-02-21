@@ -3,7 +3,7 @@
 //  Responder
 //
 //  Created by Tamas Bara on 21.02.19.
-//  Copyright © 2019 de.check24. All rights reserved.
+//  Copyright © 2019 de. All rights reserved.
 //
 
 import UIKit
